@@ -1,2 +1,1 @@
-# java-practice
-practicing code
+my java codde
